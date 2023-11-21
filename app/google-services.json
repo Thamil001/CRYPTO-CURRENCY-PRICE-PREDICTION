@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350250359358",
+    "project_id": "crypto-tracker-3cd35",
+    "storage_bucket": "crypto-tracker-3cd35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350250359358:android:ac18c50c61b9351c174f6f",
+        "android_client_info": {
+          "package_name": "com.eritlab.cryptotracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GGw2iRZ52KsfZg-v3EeeiuJaNhYQ-0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
